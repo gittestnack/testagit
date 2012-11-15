@@ -9,6 +9,7 @@ public class Testa {
 		// TODO Auto-generated method stub
 //test 1
 		//test 3
+		System.out.println("något annat");
 	}
 
 }
